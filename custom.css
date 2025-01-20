@@ -30,7 +30,7 @@
 
 
 .custom-button {
-    background-color: #007BFF; /* Blue background */
+    background-color: #d774b3; /* Blue background */
     color: white; /* White text */
     border: none; /* Remove border */
     padding: 20px 30px; /* Add padding */
@@ -50,3 +50,9 @@
   text-align: center;
   font-size: 100px;
 }
+
+body {
+    padding-bottom: 50px; /* Adjust as needed */
+    background-color: #d8eef7 ;
+  }
+
